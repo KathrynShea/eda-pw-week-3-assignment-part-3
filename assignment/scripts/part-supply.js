@@ -110,3 +110,4 @@ while(l <= numOfParts){
 }}
 console.log('number of parts', numOfParts);
 console.log('number of boxes', numOfBoxes);
+console.log(572%7);

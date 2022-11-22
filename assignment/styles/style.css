@@ -1,1 +1,41 @@
 /* give your assignment a fun background color */
+header{
+    background-color: red;
+    display: block;
+}
+
+h1{
+    margin: 0px;
+}
+
+h2{
+    margin: 0px;
+}
+
+div1{
+    background-color: orange;
+    display: block;
+}
+
+div2{
+    background-color: yellow;
+    display: block;
+
+}
+div3{
+    background-color: green;
+    display: block;
+
+}
+div4{
+    background-color: blue;
+    display: block;
+
+}
+footer{
+    background-color: violet;
+}
+
+body{
+    background-color: black;
+}
