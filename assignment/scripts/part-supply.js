@@ -40,7 +40,7 @@ for(let i = 0; i < supplyChanges.length; i++){
         console.log('Added', supplyChanges[i], 'parts.');
 
     }else if (supplyChanges[i] === 0){
-        console.log('No Changes');
+        console.log('No Change');
 
     }else {
         console.log('Removed', supplyChanges[i], 'parts.');
@@ -59,7 +59,7 @@ for(changes of supplyChanges){
         console.log('Added', changes, 'parts.');
 
     }else if (changes === 0){
-        console.log('No Changes');
+        console.log('No Change');
 
     }else {
         console.log('Removed', changes, 'parts.');
@@ -108,6 +108,6 @@ while(l <= numOfParts){
     if(numOfParts < 7){
         break;
 }}
-console.log('number of parts', numOfParts);
+
 console.log('number of boxes', numOfBoxes);
-console.log(572%7);
+console.log('number of parts leftover', numOfParts);
